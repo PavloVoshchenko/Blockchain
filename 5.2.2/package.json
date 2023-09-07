@@ -1,0 +1,16 @@
+{ 
+  "scripts": {
+  "test": "node tests/tests.js",
+  "start": "node index.js"
+},
+  "dependencies": {
+    "@maticnetwork/maticjs": "^3.6.2",
+    "@maticnetwork/maticjs-web3": "^1.0.4",
+    "@truffle/hdwallet-provider": "^2.1.13",
+    "chai": "^4.3.8",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^5.7.2",
+    "mocha": "^10.2.0",
+    "use-nft": "^0.12.0"
+  }
+}

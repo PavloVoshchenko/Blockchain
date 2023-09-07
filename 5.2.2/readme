@@ -1,0 +1,4 @@
+npx mocha tests/tests.js
+
+
+Task Description: Establish an NFT collection comprising three tokens, utilizing the Cauldron NFT-engine. Mint each of these tokens to separate wallets. Subsequently, devise three RPC API & three HTTP API tests to validate the attributes of ownership, uniqueness of the token, and token traits.
