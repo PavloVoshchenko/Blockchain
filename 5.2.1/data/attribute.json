@@ -1,0 +1,28 @@
+{
+    "attributes": [
+        {
+            "trait_type": "bg",
+            "value": "bg_3",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 0,
+            "order": null
+        },
+        {
+            "trait_type": "body",
+            "value": "body_7",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 0,
+            "order": null
+        },
+        {
+            "trait_type": "head",
+            "value": "head_2",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 0,
+            "order": null
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+	"total": null,
+	"page": 1,
+	"page_size": 100,
+	"cursor": null,
+	"result": [
+		{
+			"token_address": "0x90d05c6356c49431d763662041e893a4ba6d407c",
+			"token_id": "3",
+			"owner_of": "0xb157dd801a3eaf846e4bda9cfb855e24a4edc2cd",
+			"block_number": "39799314",
+			"block_number_minted": "39799280",
+			"token_hash": "a4a6c3ffd9cef51a0e760ae0cac109d4",
+			"amount": "1",
+			"contract_type": "ERC721",
+			"name": "ssnake",
+			"symbol": "ssn",
+			"token_uri": "https://ipfs.moralis.io:2053/ipfs/QmNr4if9EiovePb87MmEHCVE7r1CNSn5vYAoaGycTbyK2G/json/3.json",
+			"metadata": "{\"name\":\"snake #3\",\"description\":\"SNAKES\",\"image\":\"ipfs://QmYNytHRGsvUMmW4QHhSbJtyAmDDHnxZat3zxHfSNBiKVE/images/3.png\",\"dna\":\"e2ee5c039f787fe5f46d858065e0dadf3d7d5f0e\",\"edition\":3,\"date\":1693959670627,\"attributes\":[{\"trait_type\":\"bg\",\"value\":\"bg_4\"},{\"trait_type\":\"body\",\"value\":\"body_6\"},{\"trait_type\":\"head\",\"value\":\"head_6\"}]}",
+			"last_token_uri_sync": "2023-09-06T00:27:17.308Z",
+			"last_metadata_sync": "2023-09-06T00:51:13.974Z",
+			"minter_address": "0xb157dd801a3eaf846e4bda9cfb855e24a4edc2cd",
+			"possible_spam": false,
+			"verified_collection": false
+		}
+	]
+}

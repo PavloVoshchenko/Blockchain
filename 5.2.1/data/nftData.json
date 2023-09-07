@@ -1,0 +1,58 @@
+{
+	"token_address": "0xe513d498da46fa4c89620978b14fbc9c5c0bb86c",
+	"token_id": "2",
+	"transfer_index": [
+		39758772,
+		19,
+		107,
+		0
+	],
+	"owner_of": "0xb157dd801a3eaf846e4bda9cfb855e24a4edc2cd",
+	"block_number": "39758772",
+	"block_number_minted": "39758772",
+	"token_hash": "94b4de9077ddd075225fab1ca1331098",
+	"amount": "1",
+	"contract_type": "ERC721",
+	"name": "snakes",
+	"symbol": "ss",
+	"token_uri": "https://ipfs.moralis.io:2053/ipfs/QmRFB4pYS2P9dVPfHaUt3WoGKQxizkkkkWSeJGH4QmErtZ/json/2.json",
+	"metadata": "{\"name\":\"snx #2\",\"description\":\"<YOUR_DESCR>\",\"image\":\"ipfs://QmPpiTk6yotGuhr3YcTkuvH8ZNKSCd9f75v8Ngem9mf9bw/images/2.png\",\"dna\":\"20bfebe13fa1514a5d3b4154a2c6480cec0e6c65\",\"edition\":2,\"date\":1693864026686,\"attributes\":[{\"trait_type\":\"bg\",\"value\":\"bg_3\"},{\"trait_type\":\"body\",\"value\":\"body_7\"},{\"trait_type\":\"head\",\"value\":\"head_2\"}]}",
+	"last_token_uri_sync": "2023-09-04T21:55:55.222Z",
+	"last_metadata_sync": "2023-09-06T00:51:12.793Z",
+	"minter_address": "0xb157dd801a3eaf846e4bda9cfb855e24a4edc2cd",
+	"normalized_metadata": {
+		"name": "snx #2",
+		"description": "<YOUR_DESCR>",
+		"animation_url": null,
+		"external_link": null,
+		"image": "ipfs://QmPpiTk6yotGuhr3YcTkuvH8ZNKSCd9f75v8Ngem9mf9bw/images/2.png",
+		"attributes": [
+			{
+				"trait_type": "bg",
+				"value": "bg_3",
+				"display_type": null,
+				"max_value": null,
+				"trait_count": 0,
+				"order": null
+			},
+			{
+				"trait_type": "body",
+				"value": "body_7",
+				"display_type": null,
+				"max_value": null,
+				"trait_count": 0,
+				"order": null
+			},
+			{
+				"trait_type": "head",
+				"value": "head_2",
+				"display_type": null,
+				"max_value": null,
+				"trait_count": 0,
+				"order": null
+			}
+		]
+	},
+	"possible_spam": false,
+	"verified_collection": false
+}
