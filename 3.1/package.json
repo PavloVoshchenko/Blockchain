@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@maticnetwork/maticjs": "^3.6.2",
+    "@maticnetwork/maticjs-web3": "^1.0.4",
+    "@truffle/hdwallet-provider": "^2.1.13",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^5.7.2"
+  }
+}
